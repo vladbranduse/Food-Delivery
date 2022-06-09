@@ -1,0 +1,415 @@
+{
+  "Banner": {
+    "01": {
+      "id": "02",
+      "image": "https://i.ibb.co/rMk3Lk6/pizza-carne.jpg",
+      "name": "Pizza carne"
+    },
+    "02": {
+      "id": "07",
+      "image": "https://i.ibb.co/sm5b6By/burger-2.jpg",
+      "name": "Hamburger porc"
+    },
+    "03": {
+      "id": "17",
+      "image": "https://www.e-retete.ro/files/recipes/sushi-maki.jpg",
+      "name": "Sushi-maki"
+    },
+    "04": {
+      "id": "21",
+      "image": "https://thumbor.unica.ro/unsafe/700x536/smart/filters:format(webp):contrast(8):quality(75)/https://retete.unica.ro/wp-content/uploads/2010/11/iahnie-de-fasole-de-post-e1510682085197.jpg",
+      "name": "Iahnie-de-fasole"
+    }
+  },
+  "Category": {
+    "01": {
+      "Image": "https://i.ibb.co/R0Vp976/pizza.jpg",
+      "Name": "PIZZA"
+    },
+    "02": {
+      "Image": "https://i.ibb.co/fYywZSY/hamburger.jpg",
+      "Name": "HAMBURGER"
+    },
+    "03": {
+      "Image": "https://i.ibb.co/6FvzWwT/shaorma.webp",
+      "Name": "SHAORMA"
+    },
+    "04": {
+      "Image": "https://i.ibb.co/q14bJ9D/sushi.jpg",
+      "Name": "SUSHI"
+    },
+    "05": {
+      "Image": "https://i.ibb.co/2g0MFv1/ciorba-de-peste.jpg",
+      "Name": "MANCARE ROMANEASCA"
+    },
+    "-N3YDm0Jli_cxE4diCDg": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/fooddeliverydatabase-5ac23.appspot.com/o/images%2F521ca269-4ce6-471c-93dc-6dff4bdb6ecf?alt=media&token=fe3ff3ef-9a6b-46ac-98da-29950b472801",
+      "name": "Prajitura"
+    }
+  },
+  "Food": {
+    "10": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://www.retetepractice.ro/wp-content/uploads/2015/09/Shaorma-de-pui.jpg",
+      "menuId": "03",
+      "name": "Shaorma-de-pui",
+      "price": "24"
+    },
+    "11": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://carlsbadcravings.com/wp-content/uploads/2019/07/Chicken-gyros-main.jpg",
+      "menuId": "03",
+      "name": "Gyros-de-pui",
+      "price": "22"
+    },
+    "12": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://i2.wp.com/lifemadesimplebakes.com/wp-content/uploads/2018/07/Instant-Pot-Pork-Gyros-5.jpg",
+      "menuId": "03",
+      "name": "Gyros-de-porc",
+      "price": "20"
+    },
+    "13": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2018/06/Greek-Chicken-Souvlaki-Recipe-2.jpg",
+      "menuId": "03",
+      "name": "Souvlaki-de-pui",
+      "price": "21"
+    },
+    "14": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://www.seriouseats.com/thmb/S59a_ZzacW5_QB-D98lTm13Qy1M=/880x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20090319-pork-souvlaki-9a80ec7534d3427c888d2d0f939540a6.jpg",
+      "menuId": "03",
+      "name": "Souvlaki-de-porc",
+      "price": "20"
+    },
+    "15": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://d8x2b5p9.rocketcdn.me/wp-content/uploads/2021/07/stirtomix_uramaki-1024x683.jpg.webp",
+      "menuId": "04",
+      "name": "Sushi-uramaki",
+      "price": "32"
+    },
+    "16": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Temaki-Sushi-2121-I-4-500x500.jpg",
+      "menuId": "04",
+      "name": "Sushi-temaki",
+      "price": "39"
+    },
+    "17": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://www.e-retete.ro/files/recipes/sushi-maki.jpg",
+      "menuId": "04",
+      "name": "Sushi-maki",
+      "price": "35"
+    },
+    "18": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://seachef.com/wp-content/uploads/2018/02/Optimized-shutterstock_1252098172-1200x480.jpg",
+      "menuId": "04",
+      "name": "Sushi-sashimi",
+      "price": "36"
+    },
+    "19": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/64EF898D-2EDD-4B47-A456-E6A7D137AC91/Derivates/00f76cac-64f6-4573-be4f-e604a7d99143.jpg",
+      "menuId": "04",
+      "name": "Sushi-nigiri",
+      "price": "34"
+    },
+    "20": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://thumbor.unica.ro/unsafe/700x536/smart/filters:format(webp):contrast(8):quality(75)/https://retete.unica.ro/wp-content/uploads/2013/11/papanasi-1-e1507224663365.jpg",
+      "menuId": "05",
+      "name": "Papanasi-prajiti",
+      "price": "15"
+    },
+    "21": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://thumbor.unica.ro/unsafe/700x536/smart/filters:format(webp):contrast(8):quality(75)/https://retete.unica.ro/wp-content/uploads/2010/11/iahnie-de-fasole-de-post-e1510682085197.jpg",
+      "menuId": "05",
+      "name": "Iahnie-de-fasole",
+      "price": "12"
+    },
+    "22": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://savoriurbane.com/wp-content/uploads/2017/09/sarmalute-in-foi-de-vita-reteta-pas-cu-pas.jpg",
+      "menuId": "05",
+      "name": "Sarmale-in-foi-de-vita",
+      "price": "14"
+    },
+    "23": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://savoriurbane.com/wp-content/uploads/2016/01/cum-se-fac-perisoare-pufoase-pentru-ciorba-sau-bors.jpg",
+      "menuId": "05",
+      "name": "Ciorba-de-perisoare",
+      "price": "12"
+    },
+    "24": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://desertdecasa.ro/wp-content/uploads/2016/03/amandine-1.jpg",
+      "menuId": "05",
+      "name": "Amandine",
+      "price": "4"
+    },
+    "01": {
+      "description": "Ingrediente pizza casei: blat, sos, carne branza, salam ardei",
+      "discount": "0",
+      "image": "https://i.ibb.co/7QDhL1d/pizza-casei.jpg",
+      "menuId": "01",
+      "name": "Pizza casei",
+      "price": "30"
+    },
+    "02": {
+      "description": "Ingrediente pizza casei: blat, sos, carne branza, multa carne",
+      "discount": "0",
+      "image": "https://i.ibb.co/rMk3Lk6/pizza-carne.jpg",
+      "menuId": "01",
+      "name": "Pizza carne",
+      "price": "33"
+    },
+    "03": {
+      "description": "Ingrediente pizza casei: blat, sos, carne branza, masline, ciuperci, salam",
+      "discount": "0",
+      "image": "https://i.ibb.co/xLhYv5r/pizza-quatro-stagioni.jpg",
+      "menuId": "01",
+      "name": "Pizza quatro stagioni",
+      "price": "35"
+    },
+    "04": {
+      "description": "Ingrediente pizza casei: blat, sos, 4 tipuri de branza",
+      "discount": "0",
+      "image": "https://i.ibb.co/82v17QL/pizza-quatro-formagi.jpg",
+      "menuId": "01",
+      "name": "Pizza quatro formagi",
+      "price": "35"
+    },
+    "05": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://i.ibb.co/ScBnqLn/pizza-branza.jpg",
+      "menuId": "01",
+      "name": "Pizza branza",
+      "price": "25"
+    },
+    "06": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://i.ibb.co/bgxyLMj/burger-1.jpg",
+      "menuId": "02",
+      "name": "Hamburger vita",
+      "price": "20"
+    },
+    "07": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://i.ibb.co/sm5b6By/burger-2.jpg",
+      "menuId": "02",
+      "name": "Hamburger porc",
+      "price": "21"
+    },
+    "08": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://i.ibb.co/GCM3VM5/burger-3.jpg",
+      "menuId": "02",
+      "name": "Hamburger pui",
+      "price": "19"
+    },
+    "09": {
+      "description": "Ingrediente pizza casei: blat, sos, branza",
+      "discount": "0",
+      "image": "https://i.ibb.co/JyPRfMK/burger-4.jpg",
+      "menuId": "02",
+      "name": "Hamburger vegetarian",
+      "price": "25"
+    },
+    "-N2E1aHAzM66cmdn97NR": {
+      "description": "asd",
+      "discount": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fooddeliverydatabase-5ac23.appspot.com/o/images%2F92ad4bf9-af99-49b3-814c-6552438ad345?alt=media&token=e402c9d1-0121-47d8-9f64-77652a4639a6",
+      "menuId": "01",
+      "name": "asd",
+      "price": "2"
+    },
+    "-N3YDw-L9XkueRrywwci": {
+      "description": "ingrediente",
+      "discount": "0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fooddeliverydatabase-5ac23.appspot.com/o/images%2F699a6f98-4994-4321-a36d-1efdba735d92?alt=media&token=cf0d5e14-fae2-4fa6-9d13-06a5c2c2c027",
+      "menuId": "-N3YDm0Jli_cxE4diCDg",
+      "name": "prajitura buna",
+      "price": "20"
+    }
+  },
+  "Rating": {
+    "123": {
+      "comment": "A very good cake",
+      "foodId": "-N3YDw-L9XkueRrywwci",
+      "rateValue": "4",
+      "userPhone": "123"
+    },
+    "1234": {
+      "comment": "buna rau",
+      "foodId": "01",
+      "rateValue": "5",
+      "userPhone": "1234"
+    },
+    "0773349760": {
+      "comment": "Good food",
+      "foodId": "11",
+      "rateValue": "3",
+      "userPhone": "0773349760"
+    },
+    "0773349765": {
+      "comment": "Very good greek food",
+      "foodId": "11",
+      "rateValue": "4",
+      "userPhone": "0773349765"
+    },
+    "-N3W9C5SPepkWsWml0NN": {
+      "comment": "buna",
+      "foodId": "03",
+      "rateValue": "4",
+      "userPhone": "1234"
+    },
+    "-N3YD4I9CKWajdJs68pG": {
+      "comment": "este buna",
+      "foodId": "10",
+      "rateValue": "4",
+      "userPhone": "0771033228"
+    },
+    "-N3nakKoQk2-hloDicsb": {
+      "comment": "Quite good food",
+      "foodId": "07",
+      "rateValue": "4",
+      "userPhone": "123"
+    }
+  },
+  "Request": {
+    "1654186219681": {
+      "address": "asd",
+      "comment": "asd",
+      "foods": [
+        {
+          "discount": "0",
+          "price": "21",
+          "productId": "07",
+          "productName": "Hamburger porc",
+          "quantity": "1"
+        }
+      ],
+      "name": "Dana",
+      "phone": "111",
+      "status": "1",
+      "total": "21,00 RON"
+    },
+    "1654189443082": {
+      "address": "adresa",
+      "comment": "comentariu",
+      "foods": [
+        {
+          "discount": "0",
+          "price": "24",
+          "productId": "10",
+          "productName": "Shaorma-de-pui",
+          "quantity": "1"
+        },
+        {
+          "discount": "0",
+          "price": "22",
+          "productId": "11",
+          "productName": "Gyros-de-pui",
+          "quantity": "1"
+        },
+        {
+          "discount": "0",
+          "price": "21",
+          "productId": "07",
+          "productName": "Hamburger porc",
+          "quantity": "1"
+        }
+      ],
+      "name": "Dana",
+      "phone": "0771033228",
+      "status": "2",
+      "total": "67,00 RON"
+    }
+  },
+  "User": {
+    "12": {
+      "name": "Anton",
+      "password": "21"
+    },
+    "111": {
+      "name": "Dana",
+      "password": "111"
+    },
+    "123": {
+      "IsStaff": "true",
+      "nume": "Ion",
+      "password": "123"
+    },
+    "1234": {
+      "IsStaff": "false",
+      "name": "Ana",
+      "password": "4321"
+    },
+    "12345": {
+      "IsStaff": "false",
+      "nume": "Radu",
+      "password": "Radu"
+    },
+    "022": {
+      "name": "Ion",
+      "password": "-22"
+    },
+    "077177": {
+      "name": "asd",
+      "password": "123"
+    },
+    "0771033223": {
+      "IsStaff": "false",
+      "nume": "Radu",
+      "password": "Radu"
+    },
+    "0771033227": {
+      "name": "Andrei",
+      "password": "123"
+    },
+    "0771033228": {
+      "name": "Dana",
+      "password": "1234"
+    },
+    "0773349760": {
+      "IsStaff": "false",
+      "name": "Vlad",
+      "password": "24277380"
+    },
+    "0773349765": {
+      "IsStaff": "false",
+      "name": "Cristina",
+      "password": "196826"
+    },
+    "07710222222": {
+      "IsStaff": "false",
+      "nume": "Ion",
+      "password": "Ion"
+    }
+  }
+}
